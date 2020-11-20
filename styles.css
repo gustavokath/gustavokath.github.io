@@ -1,0 +1,22 @@
+body{
+  background-color: #1de9b6;
+}
+
+.content-div{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 100%;
+}
+
+.contruction-icon {
+  font-size: 150pt;
+}
+
+.contruction-text {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20pt;
+}
