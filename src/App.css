@@ -1,0 +1,8 @@
+body {
+  background-color: #EBEEF0;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #0C60A6 !important;
+}
